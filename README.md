@@ -7,7 +7,5 @@
 (+)Bypass Windows-Defender.
 (+)Bypass Top Antiviruses.
 (+)After The Encryption It Runs Locker.
-(+)Encrypt All Drives.For Encrypting Windows 
-Files(Windows Installed Drive)---->Run It With 
-                      Administartor Privileges
-# +++++++++++++++++++++++++++++++++++++++++++++
+(+)Encrypt All Drives.For Encrypting Windows Files(Windows Installed Drive)---->Run It With Administartor Privileges
+# ---------------------------------------------
