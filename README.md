@@ -1,6 +1,6 @@
 # !!!Don't upload in virustotal.com!!!
 # ---------------------------------------------
-(+)Undetectable--->99.9% \n
+(+)Undetectable--->99.9%
 (+)Speed Of Encryption Depends Of Your System.
 (+)Ransomware Output(.Bat-->Batch File).
 (+)Encrypt All Files.
