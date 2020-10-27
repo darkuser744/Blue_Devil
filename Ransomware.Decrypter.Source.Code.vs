@@ -3,7 +3,7 @@ mkdir "%userprofile%/Documents/WindowsPowerShell/Modules/decry"
 cd "%userprofile%/Documents/WindowsPowerShell/Modules/decry"
 cls
 del decry.psm1
-decry.ps1
+del decry.ps1
 echo function New-CryptographyKey() {  >>decry.psm1
 echo [CmdletBinding()]  >>decry.psm1
 echo [OutputType([String], ParameterSetName='PlainText')]  >>decry.psm1
