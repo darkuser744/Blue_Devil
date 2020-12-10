@@ -8,5 +8,5 @@
 (+)Bypass Top Antiviruses.<br>
 (+)After The Encryption It Runs Locker.<br>
 (+)Encrypt All Drives.For Encrypting Windows Files<br>
-(Windows Installed Drive)---->Run It With Administartor Privileges<br>
+(Windows Installed Drive)---->Run It With Administartor Privileges(UAC)<br>
 # --------------------------------------------------
